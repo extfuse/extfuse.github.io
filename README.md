@@ -9,7 +9,7 @@ all low-level requests to the user-space.  While the design enables a number of
 usecases, it severely degrades performance due to frequent kernel-user context
 switching.
 
-This work introduces EFFUSE, a framework for developing extensible user file
+This work introduces ExtFUSE, a framework for developing extensible user file
 systems that also allows applications to register "thin" specialized request
 handlers in the kernel to meet their specific operative needs, while retaining
 the complex functionality in user-space. 
