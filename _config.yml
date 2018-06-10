@@ -1,6 +1,8 @@
 title: ExtFUSE
 description: Extension Framework for Filesystems in Userspace
-repository: extfuse/extfuse
-show_downloads: true
-google_analytics:
+repository: "extfuse/extfuse"
+show_downloads: false
+github:
+  is_project_page: true
+google_analytics: UA-120632140-1
 theme: jekyll-theme-cayman
