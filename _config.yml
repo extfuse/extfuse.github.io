@@ -3,6 +3,7 @@ description: Extension Framework for Filesystems in Userspace
 repository: "extfuse/extfuse"
 show_downloads: false
 github:
+  repository_url: "https://github.com/extfuse/extfuse"
   is_project_page: true
 google_analytics: UA-120632140-1
 theme: jekyll-theme-cayman
